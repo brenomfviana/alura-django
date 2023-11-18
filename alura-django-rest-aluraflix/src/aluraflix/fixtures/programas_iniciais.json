@@ -1,0 +1,101 @@
+[
+    {
+      "model": "aluraflix.program",
+      "pk": 1,
+      "fields": {
+        "title": "Coisas bizarras",
+        "type": "S",
+        "release_date": "2016-07-15",
+        "likes": 7864,
+        "dislikes": 465
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 2,
+        "fields": {
+          "title": "O bruxo",
+          "type": "S",
+          "release_date": "2019-12-20",
+          "likes": 845,
+          "dislikes": 32
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 3,
+        "fields": {
+          "title": "Emília em São Francisco",
+          "type": "S",
+          "release_date": "2020-10-02",
+          "likes": 441,
+          "dislikes": 12
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 4,
+        "fields": {
+          "title": "Corações de lata",
+          "type": "F",
+          "release_date": "2015-02-05",
+          "likes": 2873,
+          "dislikes": 132
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 5,
+        "fields": {
+          "title": "Le Le Lend",
+          "type": "F",
+          "release_date": "2017-01-13",
+          "likes": 1230,
+          "dislikes": 19
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 6,
+        "fields": {
+          "title": "Saltadores Utimato",
+          "type": "F",
+          "release_date": "2019-04-25",
+          "likes": 31771,
+          "dislikes": 87
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 7,
+        "fields": {
+          "title": "Capitão Bahia",
+          "type": "F",
+          "release_date": "2011-07-29",
+          "likes": 10340,
+          "dislikes": 127
+      }
+    },
+    {
+        "model": "aluraflix.program",
+        "pk": 8,
+        "fields": {
+          "title": "Caderno da vida",
+          "type": "S",
+          "release_date": "2017-07-20",
+          "likes": 51,
+          "dislikes": 89
+      }
+    },
+    {
+      "model": "aluraflix.program",
+      "pk": 9,
+      "fields": {
+        "title": "O resgate do soldado Carlinhos",
+        "type": "F",
+        "release_date": "1999-09-05",
+        "likes": 51,
+        "dislikes": 89
+    }
+  }
+  ]
